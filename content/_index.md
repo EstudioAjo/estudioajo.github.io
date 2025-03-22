@@ -93,7 +93,7 @@ sections:
             - Diseño a medida. Creación de sitios web únicos que reflejan la identidad de la marca, adaptados a las necesidades y objetivos específicos del cliente.
             - Rediseño de Páginas Web. Mejoramos y modernizamos sitios web existentes, optimizando su estética y funcionalidad.
           # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
+          image: www.png
           #button:
           #  text: Get Started
           #  url: https://hugoblox.com/templates/
@@ -105,7 +105,7 @@ sections:
             - Sistemas de Stock. Mantén el control de tu inventario de manera eficiente, con informes en tiempo real y alertas sobre productos en bajo stock.
             - Sistemas de Ventas. Gestiona tus ventas de manera integrada, desde el seguimiento de pedidos hasta la facturación, todo en un solo lugar.
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
+          image: implementaciones.jpg
           #button:
           #  text: Join Discord
           #  url: https://discord.gg/z8wNYzb
@@ -120,7 +120,7 @@ sections:
           text: Escribinos a [infoestudioajo@gmail.com](mailto:infoestudioajo@gmail.com)
           feature_icon: sparkles
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
+          image: ok.jpg
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
