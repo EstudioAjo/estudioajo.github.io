@@ -112,18 +112,6 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: cta-image-paragraph
-    id: contacto
-    content:
-      items:
-        - title: Contactanos
-          text: Escribinos a [infoestudioajo@gmail.com](mailto:infoestudioajo@gmail.com)
-          feature_icon: sparkles
-          # Upload image to `assets/media/` and reference the filename here
-         # image: ok.jpg
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
  # - block: testimonials
   #  content:
    #   title: ""
@@ -138,16 +126,17 @@ sections:
     #  spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
     #    padding: ["6rem", 0, 0, 0]
- # - block: cta-card
- #   content:
- #     title: Build your future-proof website
- #     text: As easy as 1, 2, 3!
- #     button:
- #       text: Get Started
- #       url: https://hugoblox.com/templates/
- #   design:
- #     card:
+  - block: cta-card
+    id: contacto
+    content:
+      title: Contactanos
+      text: Escribinos a [infoestudioajo@gmail.com](mailto:infoestudioajo@gmail.com)
+      #button:
+       # text: Get Started
+       # url: https://hugoblox.com/templates/
+    design:
+      card:
         # Card background color (CSS class)
- #      css_class: "bg-primary-700"
- #       css_style: ""
+       css_class: "bg-primary-700"
+        css_style: ""
 ---
