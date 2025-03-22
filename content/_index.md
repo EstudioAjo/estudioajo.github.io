@@ -93,7 +93,7 @@ sections:
             - Diseño a medida. Creación de sitios web únicos que reflejan la identidad de la marca, adaptados a las necesidades y objetivos específicos del cliente.
             - Rediseño de Páginas Web. Mejoramos y modernizamos sitios web existentes, optimizando su estética y funcionalidad.
           # Upload image to `assets/media/` and reference the filename here
-          image: www.png
+          image: www.jpg
           #button:
           #  text: Get Started
           #  url: https://hugoblox.com/templates/
