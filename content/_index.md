@@ -10,11 +10,11 @@ design:
 sections:
   - block: hero
     content:
-      title: Estudio Ajo
+      title: Estudio AJO
       text: Transformamos tus ideas en soluciones digitales que facilitan la gestión de tu negocio y te ayudan a crecer.
       primary_action:
         text: ¡Contáctanos y comencemos a trabajar juntos en tu próximo proyecto digital!
-        url: https://hugoblox.com/contacto/
+        url: /contacto/
         icon: rocket-launch
       #secondary_action:
        # text: Read the docs
@@ -31,33 +31,33 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "navy"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
-          filters:
-            brightness: 0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
+        color: "black"
+        #image:
+         # # Add your image background to `assets/media/`.
+          #filename: backgruond.svg
+          #filters:
+          #  brightness: 0.5
+ # - block: stats
+  #  content:
+   #   items:
+    #    - statistic: "1M+"
+     #     description: |
+      #      Websites built  
+       #     with Hugo Blox
+        #- statistic: "10k+"
+         # description: |
+          #  GitHub stars  
+           # since 2016
+      #  - statistic: "3k+"
+       #   description: |
+        #    Discord community  
+         #   for support
+    #design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+     # css_class: "bg-gray-100 dark:bg-gray-900"
       # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
+      #spacing:
+       # padding: ["1rem", 0, "1rem", 0]
   - block: features
     id: features
     content:
@@ -83,7 +83,7 @@ sections:
          # icon: rectangle-group
           #description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: solutions
+    id: contacto
     content:
       items:
         - title: Build your future-proof website
