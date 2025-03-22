@@ -90,8 +90,8 @@ sections:
           text: Creamos sitios web atractivos, funcionales y fáciles de navegar, diseñados para generar una experiencia de usuario única y convertir visitas en clientes. Ya sea que necesites una página corporativa, una tienda online o un blog, te ayudamos a construir la plataforma ideal para tu negocio.
           feature_icon: code-bracket
           features:
-            - Diseño a medida: Creación de sitios web únicos que reflejan la identidad de la marca, adaptados a las necesidades y objetivos específicos del cliente.
-            - Rediseño de Páginas Web: Mejoramos y modernizamos sitios web existentes, optimizando su estética y funcionalidad.
+            - **Diseño a medida** Creación de sitios web únicos que reflejan la identidad de la marca, adaptados a las necesidades y objetivos específicos del cliente.
+            - **Rediseño de Páginas Web** Mejoramos y modernizamos sitios web existentes, optimizando su estética y funcionalidad.
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           #button:
@@ -101,9 +101,9 @@ sections:
           text: implementamos aplicaciones y sistemas personalizados que optimizan las operaciones de tu empresa.
           feature_icon: sparkles
           features:
-            - Sistemas de Reservas: Facilita la gestión de citas y reservas para tu negocio, con notificaciones automáticas y facilidad para tus clientes.
-            - Sistemas de Stock: Mantén el control de tu inventario de manera eficiente, con informes en tiempo real y alertas sobre productos en bajo stock.
-            - Sistemas de Ventas: Gestiona tus ventas de manera integrada, desde el seguimiento de pedidos hasta la facturación, todo en un solo lugar.
+            - **Sistemas de Reservas** Facilita la gestión de citas y reservas para tu negocio, con notificaciones automáticas y facilidad para tus clientes.
+            - **Sistemas de Stock** Mantén el control de tu inventario de manera eficiente, con informes en tiempo real y alertas sobre productos en bajo stock.
+            - **Sistemas de Ventas** Gestiona tus ventas de manera integrada, desde el seguimiento de pedidos hasta la facturación, todo en un solo lugar.
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           #button:
