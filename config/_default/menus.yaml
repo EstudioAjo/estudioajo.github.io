@@ -6,15 +6,12 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
-    weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Servicios
+    url: /#servicios
     weight: 30
-  - name: Resources
+  - name: Contacto
+    url: /#contacto
     weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+ # - parent: Resources
+ #   name: Blog
+ #   url: blog/
