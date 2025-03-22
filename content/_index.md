@@ -10,20 +10,20 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Estudio Ajo
+      text: Transformamos tus ideas en soluciones digitales que facilitan la gestión de tu negocio y te ayudan a crecer.
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: ¡Contáctanos y comencemos a trabajar juntos en tu próximo proyecto digital!
+        url: https://hugoblox.com/contacto/
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+      #secondary_action:
+       # text: Read the docs
+        #url: https://docs.hugoblox.com
+      #announcement:
+       # text: "Announcing the release of version 1."
+        #link:
+         # text: "Read more"
+          #url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -61,27 +61,27 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: Nuestros Servicios
+      text: En Estudio Ajo nos especializamos en ofrecer soluciones digitales a medida para pequeñas empresas que buscan optimizar su presencia online y mejorar sus procesos internos. Sabemos que cada negocio tiene sus propias necesidades y desafíos, por eso creamos herramientas digitales personalizadas que se adaptan perfectamente a tus objetivos.
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+        - name: Diseño Web Profesional
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Creamos sitios web atractivos, funcionales y fáciles de navegar, diseñados para generar una experiencia de usuario única y convertir visitas en clientes. Ya sea que necesites una página corporativa, una tienda online o un blog, te ayudamos a construir la plataforma ideal para tu negocio.
+        - name: Implementaciones de Software a Medida
+          icon: sparkles
+          description: implementamos aplicaciones y sistemas personalizados que optimizan las operaciones de tu empresa.
+        #- name: Easy
+         # icon: magnifying-glass
+          #description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
+        #- name: No-Code
+         # icon: bolt
+          #description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
+        #- name: Highly Rated
+         # icon: star
+          #description: Rated 5-stars by the community.
+        #- name: Swappable Blocks
+         # icon: rectangle-group
+          #description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
     id: solutions
     content:
