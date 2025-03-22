@@ -120,7 +120,7 @@ sections:
           text: Escribinos a [infoestudioajo@gmail.com](mailto:infoestudioajo@gmail.com)
           feature_icon: sparkles
           # Upload image to `assets/media/` and reference the filename here
-          image: ok.jpg
+         # image: ok.jpg
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
