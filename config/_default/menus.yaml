@@ -8,10 +8,13 @@ main:
     weight: 10
   - name: Servicios
     url: /#servicios
-    weight: 30
+    weight: 20
   - name: Contacto
     url: /#contacto
+    weight: 30
+  - name: Portfolio
+    url: /portfolio
     weight: 40
- # - parent: Resources
- #   name: Blog
- #   url: blog/
+ #- parent: Resources
+  #  name: Blog
+  #  url: blog/
