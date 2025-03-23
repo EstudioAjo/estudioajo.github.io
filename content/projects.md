@@ -13,6 +13,7 @@ sections:
     content:
       title: Nuestros Proyectos
       text: En Estudio Ajo, hemos trabajado con pequeñas empresas y emprendedores para desarrollar soluciones digitales que optimizan sus operaciones y mejoran su presencia online. Desde diseño web hasta sistemas personalizados, cada proyecto refleja nuestro compromiso con la innovación y la calidad.
+      
       filters:
         folders:
           - proyecto

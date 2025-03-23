@@ -129,8 +129,8 @@ sections:
   - block: cta-card
     id: contacto
     content:
-      title: Contactanos
-      text: Escribinos a [infoestudioajo@gmail.com](mailto:infoestudioajo@gmail.com)
+      title: ¿Tienes un proyecto en mente?
+      text: Nos encantaría ayudarte a hacer realidad tu idea. Ponte en contacto con nosotros y trabajemos juntos para crear una solución digital a medida. Escríbenos a [infoestudioajo@gmail.com](mailto:infoestudioajo@gmail.com)
       #button:
        # text: Get Started
        # url: https://hugoblox.com/templates/
