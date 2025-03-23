@@ -12,8 +12,8 @@ main:
   - name: Contacto
     url: /#contacto
     weight: 30
-  - name: Portfolio
-    url: content/portfolio/portfolio
+  - name: Projects
+    url: projects/
     weight: 40
  #- parent: Resources
   #  name: Blog
