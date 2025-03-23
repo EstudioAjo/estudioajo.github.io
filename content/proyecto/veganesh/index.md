@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Veganesh
+date: 2021-05-10
+external_link: https://www.instagram.com/veganeshh/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - FUDO
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Implementamos el sistema FUDO para la gestión de la casa de comidas para llevar Veganesh.
 
 <!--more-->

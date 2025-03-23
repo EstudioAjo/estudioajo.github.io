@@ -1,13 +1,12 @@
 ---
-title: Pandas
+title: The Break Club
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://thebreakclub.com/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Web
+  - Turitop
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Desde el año 2021 trabajamos con The Break Club configurando y dando soporte a la página web y su sistema de reservas con Turitop.
 
 <!--more-->

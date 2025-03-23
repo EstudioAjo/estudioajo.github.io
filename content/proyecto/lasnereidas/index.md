@@ -1,13 +1,11 @@
 ---
-title: Pandas
+title: Las Nereidas
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://www.instagram.com/nereidaspergamino/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Odoo
+  - ERP
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+Trabajamos con Las Nereidas para implementar el sistema ERP Odoo
 <!--more-->
